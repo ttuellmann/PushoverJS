@@ -1,6 +1,8 @@
 PushoverJS
 ==========
 
+![](https://raw2.github.com/niemandr/PushoverJS/master/github_page/message01.png)
+
 Simple JavaScript client for "pushover.net".
 
 ## About
@@ -8,6 +10,8 @@ Simple JavaScript client for "pushover.net".
 PushoverJS is a simple native JavaScript wrapper for "pushover.net" allowing you to easily send pushover notifications directly from the client side.
 
 PushoverJS wraps the **Pushover API** (https://pushover.net/api) making it simple to send push notifications to your phone.
+
+![](https://raw2.github.com/niemandr/PushoverJS/master/github_page/api_usage.png)
 
 ## Usage Examples
 
